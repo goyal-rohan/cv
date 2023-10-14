@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.9.14)  18 SEP 2023 12:26
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.9.14)  14 OCT 2023 18:01
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -197,7 +197,7 @@ Package: mathpazo 2020/03/25 PSNFSS-v9.3 Palatino w/ Pazo Math (D.Puga, WaS)
 ) (C:\Users\Rohan\AppData\Local\Programs\MiKTeX\tex/latex/eulervm\eulervm.sty
 Package: eulervm 2005/01/11 v4.0 (WaS)
 )
-LaTeX Font Info:    Trying to load font information for OT1+ppl on input line 60.
+LaTeX Font Info:    Trying to load font information for OT1+ppl on input line 59.
  (C:\Users\Rohan\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ppl.fd
 File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
 ) (C:\Users\Rohan\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
@@ -210,27 +210,27 @@ LaTeX Warning: Unused global option(s):
     [10pt].
 
 (rohan-cv.aux)
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
 
 \providecommand\hyper@newdestlabel[2]{}
-Package hyperref Info: Link coloring ON on input line 60.
+Package hyperref Info: Link coloring ON on input line 59.
 (C:\Users\Rohan\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count273
@@ -247,54 +247,51 @@ Package hyperref Info: Link coloring ON on input line 60.
 )
 \big@size=\dimen150
 \big@size=\dimen151
-LaTeX Font Info:    Trying to load font information for U+zeur on input line 104.
+LaTeX Font Info:    Trying to load font information for U+zeur on input line 141.
  (C:\Users\Rohan\AppData\Local\Programs\MiKTeX\tex/latex/eulervm\uzeur.fd
 File: uzeur.fd 2005/01/11 v4.0 (WaS)
 )
-LaTeX Font Info:    Trying to load font information for U+zeus on input line 104.
+LaTeX Font Info:    Trying to load font information for U+zeus on input line 141.
  (C:\Users\Rohan\AppData\Local\Programs\MiKTeX\tex/latex/eulervm\uzeus.fd
 File: uzeus.fd 2005/01/11 v4.0 (WaS)
 )
-LaTeX Font Info:    Trying to load font information for U+zeuex on input line 104.
+LaTeX Font Info:    Trying to load font information for U+zeuex on input line 141.
  (C:\Users\Rohan\AppData\Local\Programs\MiKTeX\tex/latex/eulervm\uzeuex.fd
 File: uzeuex.fd 2005/01/11 v4.0 (WaS)
 )
-LaTeX Font Info:    Trying to load font information for OT1+zplm on input line 104.
+LaTeX Font Info:    Trying to load font information for OT1+zplm on input line 141.
  (C:\Users\Rohan\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1zplm.fd
 File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
-)
-d:/Everything/CV/cv/twoColumnCV/rohan-cv.tex:113: Extra }, or forgotten \endgroup.
-l.113 ...aspx?id=31126}{\textit{Contestant Page}}}
-                                                   \hfill 2021
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-LaTeX Font Info:    Trying to load font information for U+fontawesomethree on input line 126.
-(C:\Users\Rohan\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome\ufontawesomethree.fd
-File: ufontawesomethree.fd 2016/05/22 Font definitions for U/fontawesomethree.
 ) [1
 
-{C:/Users/Rohan/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/Rohan/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}{C:/Users/Rohan/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome/fontawesomethree.enc}] [2]
+{C:/Users/Rohan/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/Rohan/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}] [2]
+Overfull \hbox (1.005pt too wide) in paragraph at lines 243--245
+\OT1/ppl/m/n/10 I take lec-tures for Math-e-mat-i-cal Olympiads for some stu-dents from across the world mostly through
+ []
+
+LaTeX Font Info:    Trying to load font information for U+fplmbb on input line 261.
+(C:\Users\Rohan\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ufplmbb.fd
+File: ufplmbb.fd 2003/10/30 Fontinst v1.914 font definitions for U/fplmbb.
+) [3] [4
+
+]
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-29>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 10623 strings out of 475248
- 162552 string characters out of 5757813
- 1933801 words of memory out of 5000000
- 32026 multiletter control sequences out of 15000+600000
- 570667 words of font info for 68 fonts, out of 8000000 for 9000
+ 10632 strings out of 475248
+ 162442 string characters out of 5757813
+ 1932801 words of memory out of 5000000
+ 32027 multiletter control sequences out of 15000+600000
+ 572940 words of font info for 77 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,11n,79p,703b,478s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/Rohan/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome/FontAwesome.pfb><C:/Users/Rohan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Users/Rohan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Rohan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Users/Rohan/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplb8a.pfb><C:/Users/Rohan/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplr8a.pfb><C:/Users/Rohan/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on rohan-cv.pdf (2 pages, 116724 bytes).
+ 75i,11n,79p,513b,538s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/Rohan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Users/Rohan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Rohan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Users/Rohan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/euler/eufm10.pfb><C:/Users/Rohan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/euler/eurm10.pfb><C:/Users/Rohan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/euler/eurm7.pfb><C:/Users/Rohan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/euler/eusm10.pfb><C:/Users/Rohan/AppData/Local/Programs/MiKTeX/fonts/type1/public/mathpazo/fplmbb.pfb><C:/Users/Rohan/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplb8a.pfb><C:/Users/Rohan/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplr8a.pfb><C:/Users/Rohan/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on rohan-cv.pdf (4 pages, 124470 bytes).
 PDF statistics:
- 87 PDF objects out of 1000 (max. 8388607)
- 3 named destinations out of 1000 (max. 500000)
+ 105 PDF objects out of 1000 (max. 8388607)
+ 5 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
