@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.10.18)  25 NOV 2023 15:14
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.10.18)  25 NOV 2023 19:28
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -247,29 +247,29 @@ Package hyperref Info: Link coloring ON on input line 58.
 )
 \big@size=\dimen150
 \big@size=\dimen151
-LaTeX Font Info:    Trying to load font information for U+zeur on input line 143.
+LaTeX Font Info:    Trying to load font information for U+zeur on input line 142.
  (C:\Users\Rohan\AppData\Local\Programs\MiKTeX\tex/latex/eulervm\uzeur.fd
 File: uzeur.fd 2005/01/11 v4.0 (WaS)
 )
-LaTeX Font Info:    Trying to load font information for U+zeus on input line 143.
+LaTeX Font Info:    Trying to load font information for U+zeus on input line 142.
  (C:\Users\Rohan\AppData\Local\Programs\MiKTeX\tex/latex/eulervm\uzeus.fd
 File: uzeus.fd 2005/01/11 v4.0 (WaS)
 )
-LaTeX Font Info:    Trying to load font information for U+zeuex on input line 143.
+LaTeX Font Info:    Trying to load font information for U+zeuex on input line 142.
  (C:\Users\Rohan\AppData\Local\Programs\MiKTeX\tex/latex/eulervm\uzeuex.fd
 File: uzeuex.fd 2005/01/11 v4.0 (WaS)
 )
-LaTeX Font Info:    Trying to load font information for OT1+zplm on input line 143.
+LaTeX Font Info:    Trying to load font information for OT1+zplm on input line 142.
  (C:\Users\Rohan\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1zplm.fd
 File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
 ) [1
 
 {C:/Users/Rohan/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/Rohan/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}] [2]
-Overfull \hbox (1.005pt too wide) in paragraph at lines 262--264
-\OT1/ppl/m/n/10 I take lec-tures for Math-e-mat-i-cal Olympiads for some stu-dents from across the world mostly through
+Overfull \hbox (0.375pt too wide) in paragraph at lines 261--263
+\OT1/ppl/m/n/10 I take lec-tures for math-e-mat-i-cal Olympiads for some stu-dents from across the world mostly through
  []
 
-LaTeX Font Info:    Trying to load font information for U+fplmbb on input line 280.
+LaTeX Font Info:    Trying to load font information for U+fplmbb on input line 279.
 (C:\Users\Rohan\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ufplmbb.fd
 File: ufplmbb.fd 2003/10/30 Fontinst v1.914 font definitions for U/fplmbb.
 ) [3] [4
@@ -287,9 +287,9 @@ Here is how much of TeX's memory you used:
  32451 multiletter control sequences out of 15000+600000
  572940 words of font info for 77 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,11n,79p,513b,534s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,11n,79p,507b,534s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Rohan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Users/Rohan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Rohan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Users/Rohan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/euler/eufm10.pfb><C:/Users/Rohan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/euler/eurm10.pfb><C:/Users/Rohan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/euler/eurm7.pfb><C:/Users/Rohan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/euler/eusm10.pfb><C:/Users/Rohan/AppData/Local/Programs/MiKTeX/fonts/type1/public/mathpazo/fplmbb.pfb><C:/Users/Rohan/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplb8a.pfb><C:/Users/Rohan/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplr8a.pfb><C:/Users/Rohan/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on rohan-cv.pdf (4 pages, 129718 bytes).
+Output written on rohan-cv.pdf (4 pages, 129587 bytes).
 PDF statistics:
  105 PDF objects out of 1000 (max. 8388607)
  5 named destinations out of 1000 (max. 500000)
