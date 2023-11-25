@@ -1,7 +1,7 @@
 # Fdb version 4
-["pdflatex"] 1697286700 "d:/Everything/CV/cv/twoColumnCV/rohan-cv.tex" "rohan-cv.pdf" "rohan-cv" 1697286701 0
-  "C:/Users/Rohan/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1697180661 85387 ca9279d5fa10468c843373ae25dd11c1 ""
-  "C:/Users/Rohan/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1694701461 24142036 09869bb71b0391850ad75cc89527f04f ""
+["pdflatex"] 1700889141 "d:/Everything/CV/cv/twoColumnCV/rohan-cv.tex" "rohan-cv.pdf" "rohan-cv" 1700889142 0
+  "C:/Users/Rohan/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1699670537 94799 f8dab6ae585caf6d8ee28172304a3055 ""
+  "C:/Users/Rohan/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1697639061 24175185 61cebff3f0e3f0c96f83b31abec09f4e ""
   "C:/Users/Rohan/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc" 1458473887 4993 80dc9bab7f31fb78a000ccfed0e27cab ""
   "C:/Users/Rohan/AppData/Local/Programs/MiKTeX/fonts/tfm/adobe/palatino/pplb7t.tfm" 1136752454 1616 371d1ee60c04b008c8fd760060cd34f1 ""
   "C:/Users/Rohan/AppData/Local/Programs/MiKTeX/fonts/tfm/adobe/palatino/pplb8r.tfm" 1136752454 2532 9ad73cf4dd2173a847f2a5f5608e0b9a ""
@@ -91,7 +91,7 @@
   "C:/Users/Rohan/AppData/Local/Programs/MiKTeX/tex/latex/hyperref/puenc.def" 1688831805 117118 5595bc841ebb373d40a4c1ec21cfadda ""
   "C:/Users/Rohan/AppData/Local/Programs/MiKTeX/tex/latex/kvoptions/kvoptions.sty" 1656236481 22555 6d8e155cfef6d82c3d5c742fea7c992e ""
   "C:/Users/Rohan/AppData/Local/Programs/MiKTeX/tex/latex/kvsetkeys/kvsetkeys.sty" 1665066333 13815 760b0c02f691ea230f5359c4e1de23a7 ""
-  "C:/Users/Rohan/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-pdftex.def" 1681896761 29940 9473d58112bc8a88f5505b823a053dde ""
+  "C:/Users/Rohan/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-pdftex.def" 1696960579 29988 e1e28a7c88c8840671272f7848aef0d6 ""
   "C:/Users/Rohan/AppData/Local/Programs/MiKTeX/tex/latex/letltxmacro/letltxmacro.sty" 1575399536 5766 13a9e8766c47f30327caf893ece86ac8 ""
   "C:/Users/Rohan/AppData/Local/Programs/MiKTeX/tex/latex/psnfss/mathpazo.sty" 1585926771 9189 3f18c815295e2a2949e87fa743bcb489 ""
   "C:/Users/Rohan/AppData/Local/Programs/MiKTeX/tex/latex/psnfss/ot1ppl.fd" 1585253778 1007 06b773644d960aac68add40fcb596208 ""
@@ -101,10 +101,10 @@
   "C:/Users/Rohan/AppData/Local/Programs/MiKTeX/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1657800696 9714 ba3194bd52c8499b3f1e3eb91d409670 ""
   "C:/Users/Rohan/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/Rohan/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1656236890 56148 51a9a8571c07b9921892ae11063ae853 ""
-  "d:/Everything/CV/cv/twoColumnCV/rohan-cv.tex" 1697286698 17662 192381c83fe61e8d08a04cb691ef2744 ""
+  "d:/Everything/CV/cv/twoColumnCV/rohan-cv.tex" 1700889140 18674 16aeca66cdcd770ada4ffeb8cb0e3513 ""
   "res.cls" 1695016659 25917 5b27b88bd25b408c88741bbc74fa96ae ""
-  "rohan-cv.aux" 1697188036 34 3985256e7290058c681f74d7a3565a19 "pdflatex"
-  "rohan-cv.tex" 1697286698 17662 192381c83fe61e8d08a04cb691ef2744 ""
+  "rohan-cv.aux" 1700888925 34 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "rohan-cv.tex" 1700889140 18674 16aeca66cdcd770ada4ffeb8cb0e3513 ""
   (generated)
   "rohan-cv.aux"
   "rohan-cv.log"
